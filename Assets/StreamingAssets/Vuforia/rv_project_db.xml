@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="colosseum" size="1.000000 0.664194" />
+    <ImageTarget name="greatwall" size="1.000000 0.665455" />
+    <ImageTarget name="taj_mahal" size="1.000000 0.666797" />
+    <ImageTarget name="chichen-itza" size="1.000000 0.533333" />
+    <ImageTarget name="pyramids" size="100.000000 56.250000" />
+    <ImageTarget name="abolhol" size="5.000000 3.312500" />
+  </Tracking>
+</QCARConfig>
