@@ -80,6 +80,3 @@ This application is built using Unity3D and Vuforia, with scripting in C#.
 *   **`Assets/Lean/`**: Assets for the LeanTouch library.
 *   **`Assets/Resources/`**: Resources loaded dynamically.
 *   **`Assets/StreamingAssets/Vuforia/`**: Vuforia databases and configurations.
-
-## Contribution
-This is a university project. For specific contribution guidelines, please refer to the project brief or contact the development team.
