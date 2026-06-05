@@ -1,5 +1,12 @@
 # AR Virtual Museum - MONUMONTAL - Seven Wonders of the World
 
+## Screenshots
+
+### AR Experience
+![Sphinx](Images/Screenshot_2025-05-10-11-21-13-910_com.DefaultCompany.ARApp.jpg)
+
+![Sphinx2](iImages/Screenshot_2025-05-10-11-21-59-548_com.DefaultCompany.ARApp.jpg)
+
 ## Project Description
 This project is an Augmented Reality (AR) mobile application developed for a university assignment. It transforms any space into an interactive virtual museum showcasing 3D models of the Seven Wonders of the Ancient World (and other notable world wonders). Users can explore these wonders, view information, listen to audio descriptions, and take interactive quizzes.
 
